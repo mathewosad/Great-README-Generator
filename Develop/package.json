@@ -12,5 +12,6 @@
     "inquirer": "^8.2.0"
   },
   "keywords": [],
-  "description": ""
+  "description": "",
+  "devDependencies": {}
 }
