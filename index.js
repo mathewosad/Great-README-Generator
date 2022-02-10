@@ -20,7 +20,7 @@ const fs = require('fs');
 const util = require('util');
 const emailValidator = require('email-validator');
 
-const generateMarkdown = require('./utils/generateMarkdown');
+const generateMarkdown = require('../utils/generateMarkdown');
 
 // array of questions for user
 const questions = [
