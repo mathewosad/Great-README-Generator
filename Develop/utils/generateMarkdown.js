@@ -14,7 +14,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  ![License: ISC](https://img.shields.io/github/license/${data.github}/${data.repo})
+  ![License Badge](https://img.shields.io/github/license/${data.github}/${data.repo})
 
   ## Description
 
