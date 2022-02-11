@@ -1,10 +1,10 @@
-# README-Generator
+# README Generator
 
-  [![License: ISC](https://img.shields.io/github/license/mathewosad/Great-README-Generator)
+  ![License Badge](https://img.shields.io/github/license/mathewosad/Great-README-Generator)
 
   ## Description
 
-  RAEDme generator
+  Generates READme
 
   ## Table of Contents
 
@@ -26,7 +26,7 @@
 
   ## Usage
 
-  cmd Application
+  CMD Application
 
   ## Contribution
 
@@ -43,7 +43,7 @@
   * Any additional questions or feed back, feel free to [send an email](mailto:matthewosad@yahoo.com). 
 
   ## License
-  
+
   Copyright (c) [mathewosad](https://github.com/mathewosad). All rights reserved.
   
   Licensed under the ISC license.
